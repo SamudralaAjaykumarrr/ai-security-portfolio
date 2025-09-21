@@ -10,6 +10,8 @@ It showcases my daily hands-on work as I build skills to defend AI systems again
   ![Day 1 PyTorch Setup](images/day1.png)
 
 - **Day 2:** ✅ PyTorch tensors & basic operations
+- ![Day 2 PyTorch Tensors](images/day2.png)
+
 
 
 ---
